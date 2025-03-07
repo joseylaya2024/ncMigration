@@ -8,7 +8,7 @@
         private $db;
         private $bucketName = 'nc_webrtc_recording';
         private $skywayPath = '78974d5f-55a8-4469-85a8-e81002001b05';
-        private $batchSize = 1;
+        private $batchSize = 900;
         private $token;
         public $message;
         public $startDate;
